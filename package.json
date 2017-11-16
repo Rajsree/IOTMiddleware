@@ -1,0 +1,14 @@
+{
+  "name": "IOT DATA HAndler",
+  "version": "0.0.1",
+  "description": "Simple IOT data handler",
+  "main": "server.js",
+  "author": "Raj sree",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "mongoose": "4.10.8",
+    "express": "^4.10.8",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0"
+  }
+}
